@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Basededatosbiblioteca</string>
+    <string name="txtISBN">ISBN del libro</string>
+    <string name="txtTitulo">Título del libro</string>
+    <string name="txtAutor">Author del libro</string>
+    <string name="txtEditorial">Editorial del libro</string>
+    <string name="txtPaginas">Número de Páginas</string>
+    <string name="BtnRegistrar">Registrar libro</string>
+    <string name="BtnBuscar">Buscar libro</string>
+    <string name="BtnEliminar">Eliminar libro</string>
+    <string name="BtnModificar">Modificar libro</string>
+    <string name="BtnLimpiar">Limpiar datos</string>
+</resources>
